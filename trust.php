@@ -74,7 +74,9 @@ body {
                 <h2>Your Trust is our reputation</h2>
                 <div class="col py-1">
                     Where does it come from?
-                    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
+                    Your trust is our reputation and we will respect that for you and apart from that 
+                    this community work as a team for every needy people who really need to work upon 
+                    there job base profile.
                     classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin
                     professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words,
                     consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical

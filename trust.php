@@ -73,16 +73,7 @@ body {
             <div class="col-6 border border-secondary border-right p-5">
                 <h2>Your Trust is our reputation</h2>
                 <div class="col py-1">
-                    Where does it come from?
-                    Contrary to popular belief, Lorem Ipsum is not simply random text.
-                    This is message to all git user that follow this steps along the way
-                    here i would like to convey that nothing we can do.simply random text.
-                    This is message to all git user that follow this steps along the way
-                    here i would like to convey that nothing we can do.simply random text.
-                    This is message to all git user that follow this steps along the way
-                    here i would like to convey that nothing we can do.simply random text.
-                    This is message to all git user that follow this steps along the way
-                    here i would like to convey that nothing we can do.
+                    In the United States, in 2007, the Bureau of Labor Statistics found that American households in the lowest fifth in terms of wealth, gave on average a higher percentage of their incomes to charitable organizations than those households in the highest fifth.[1] Charity Navigator writes that, according to Giving USA, Americans gave $298 billion in 2011 (about 2% of GDP).[2] The majority of donations were from individuals (73%), then from bequests (about 12%), foundations (2%) and less than 1% from corporations. The largest sector to receive donations was religious organizations (32%), then education (13%). Giving has increased in 3 out of 4 years since 1971 (with the occasional declines occurring around recession years).[2]
                 </div>
                
             </div>

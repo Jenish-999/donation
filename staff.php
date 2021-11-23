@@ -63,7 +63,7 @@ object-fit: cover;
             <div class="col-12">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <div class="container-fluid">
-                        <a class="navbar-brand" href="#"><img src="images/logo.jpeg" alt="logo" width="50"
+                        <a class="navbar-brand" href="index.php"><img src="images/logo.jpeg" alt="logo" width="50"
                                 height="50"></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
